@@ -206,7 +206,13 @@ function Homepage() {
     <div id='main'>
       <div className='header'>
         <h2>
-          <a style='text-decoration: none;' href='https://github.com/moshaad7/'>
+          <a
+            style={{
+              textDecoration: 'none',
+              color: 'white',
+            }}
+            href='https://github.com/moshaad7/'
+          >
             moshaad7
           </a>
         </h2>
