@@ -206,7 +206,9 @@ function Homepage() {
     <div id='main'>
       <div className='header'>
         <h2>
-          <a href='https://github.com/moshaad7/'>moshaad7</a>
+          <a style='text-decoration: none;' href='https://github.com/moshaad7/'>
+            moshaad7
+          </a>
         </h2>
         <h1>
           📄<span>Resume Sorted </span>{' '}
